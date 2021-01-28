@@ -1,1 +1,1 @@
-Working with permissions in linux
+permission scriptsy

@@ -1,2 +1,3 @@
 #!/bin/bash
-umask ugo=x *
+chmod -R ugo+x .
+

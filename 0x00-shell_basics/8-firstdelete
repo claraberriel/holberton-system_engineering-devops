@@ -1,2 +1,6 @@
+# 8. Bye bye Betty
+# Delete the file betty.
+#   The file betty is in /tmp/holberton
+
 #!/bin/bash
 rm /tmp/holberton/betty

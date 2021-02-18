@@ -1,2 +1,5 @@
+# 9. Bye bye Holberton
+# Delete the directory holberton that is in the /tmp directory.
+
 #!/bin/bash
 rmdir /tmp/holberton

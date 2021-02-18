@@ -1,2 +1,6 @@
+# 17. Tree
+# Create a script that creates the directories welcome/, welcome/to/ and welcome/to/holberton in the current directory.
+# You are only allowed to use two spaces (and lines) in your script, not more.
+
 #!/bin/bash
-mkdir {./welcome/,./welcome/to/,./welcome/to/holberton}
+mkdir {./welcome/,./welcome/to/,./welcome/to/holberton} #There was an easier way to do this... mkdir -p welcome/to/holberton
